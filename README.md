@@ -1,0 +1,2 @@
+# wejang
+WEJANG Is an application knowledge base, especially for documentation of our problem-solving in working space. some people have been fast to doing well our problem, but that problem is difficult to have documentation or share with other partners because the guide only in your imagination. WEJANG helping by documentation each problem, you have to share actually no worries to take a long time.
